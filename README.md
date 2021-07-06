@@ -18,7 +18,7 @@ I'm interested in Web Development, Mobile App Development, Machine learning and 
 
 Beside programming, I got a penchant for writing!
 
-Check out my Portfolio at https://kallem-vamshidhar-reddy.github.io/
+Check out my Portfolio at https://kallem-vamshidhar-reddy.github.io/Vamshi-portfolio/
 
   <img align="right" alt="GIF" src="https://github.com/kallem-vamshidhar-reddy/kallem-vamshidhar-reddy/blob/main/code.gif?raw=true" width="500" height="320" />
   
